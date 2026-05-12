@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 4. Setup Environment Variable:
 Buat file .env di root folder dan isi:
-GROQ_API_KEY=isi_api_key_groq_lu
+GROQ_API_KEY=isi_api_key_groq
 
 5. Jalankan Aplikasi:
 streamlit run app.py
